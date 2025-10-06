@@ -123,3 +123,6 @@ wilgotność
 przepuszczalność - przepuszczalność gazów
 płynność - zdolność masy do równomiernego zagęszczenia przy użyciu jak najmniejszej siły
 wytrzymałość
+
+### Zjawiska w krzepnięciu metalu
+
