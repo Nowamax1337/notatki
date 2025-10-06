@@ -104,9 +104,11 @@ Kryteria klasyfikacji:
 ### Schemat wytwarzania
 
 1. płyta modelowa - bez niej się nie da
-	- nakładamy skrzynkę formierską
-	- zasypujemy masą formierską (
-		1. piasek kwarcowy(100 części wagowych piasku)
-		2. glina montmorylonitowa(bentonit) 10 części wagowych
-		3. woda 
-		4. pył węglowy
+2. nakładamy skrzynkę formierską
+3.  zasypujemy masą formierską
+	1. piasek kwarcowy(100 części wagowych piasku)
+	2. glina montmorylonitowa(bentonit) 10 części wagowych
+	3. woda 
+	4. pył węglowy
+4. zagęszczanie masy
+5. 
