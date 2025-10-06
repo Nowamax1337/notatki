@@ -111,4 +111,9 @@ Kryteria klasyfikacji:
 	3. woda 
 	4. pył węglowy
 4. zagęszczanie masy
-5. 
+
+---
+
+### Właściwości masy formierskiej
+1. skład masy świeżej
+2. W przypadku syntetycznej(pentolit-owej) masy formierskiej korzysta się z niej powtórnie po odświeżeniu. Jest to masazwrotna. Do masy zwrotnej dodawane 
