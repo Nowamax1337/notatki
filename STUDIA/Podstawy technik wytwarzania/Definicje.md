@@ -116,4 +116,10 @@ Kryteria klasyfikacji:
 
 ### Właściwości masy formierskiej
 1. skład masy świeżej
-2. W przypadku syntetycznej(pentolit-owej) masy formierskiej korzysta się z niej powtórnie po odświeżeniu. Jest to masazwrotna. Do masy zwrotnej dodawane 
+2. W przypadku syntetycznej(pentolit-owej) masy formierskiej korzysta się z niej powtórnie po odświeżeniu. Jest to masa zwrotna. Do masy zwrotnej dodawane są świeże składniki (np dodanie świeżej wody,piasku i bentonitu do masy)
+
+### Właściwości masy formierskiej
+wilgotność
+przepuszczalność - przepuszczalność gazów
+płynność - zdolność masy do równomiernego zagęszczenia przy użyciu jak najmniejszej siły
+wytrzymałość
