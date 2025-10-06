@@ -17,73 +17,87 @@ Kryteria klasyfikacji:
 
 # Klasyfikacje metod odlewniczych
 
-## I. Ze względu na rodzaj formy odlewniczej
+## I. ZE WZGLĘDU NA RODZAJ FORMY ODLEWNICZEJ
 
-- **Formy piaskowe** - formowanie na wilgotno.
-  - formy jednorazowe
-  - formy wielokrotnego użytku
-- **Formy ceramiczne** - precyzyjne, artystyczne
-  - formy jednorazowe
-  - formy wielokrotnego użytku
-- **Formy metalowe**
-  - formy jednorazowe
-  - formy wielokrotnego użytku
-- **Formy z mas syntetycznych**
-  - formy jednorazowe
-  - formy wielokrotnego użytku
+1. (Klasyczne formy piaskowe)  - formowane na wilgotno
+   - formy jednorazowe  
+   - formy wielokrotnego użytku
 
-## II. Ze względu na rodzaj modelu
+1. (Formy ceramiczne)  - precyzyjne
+   - formy jednorazowe  
+   - formy wielokrotnego użytku
 
-- **Modele nietrwałe**
-  - modele woskowe
-  - modele z tworzyw sztucznych
-  - modele z mas cukrowych
-- **Modele trwałe**
-  - modele metalowe
-  - modele z tworzyw sztucznych
-  - modele drewniane
+3. (Formy metalowe)  
+   - formy jednorazowe  
+   - formy wielokrotnego użytku
 
-## III. Ze względu na rodzaj materiału odlewniczego
+4. (Formy z mas syntetycznych)  
+   - formy jednorazowe  
+   - formy wielokrotnego użytku
 
-- **Odlewy z metali i ich stopów**
-  - odlewy ze stopów żelaza
-  - odlewy ze stopów metali nieżelaznych
-- **Odlewy z tworzyw sztucznych**
-  - odlewy z tworzyw termoplastycznych
-  - odlewy z tworzyw termoutwardzalnych
-- **Odlewy z materiałów ceramicznych**
-  - odlewy z mas ceramicznych
-  - odlewy z mas szklanych
+## II. ZE WZGLĘDU NA RODZAJ MODELU
 
-## IV. Ze względu na rodzaj procesu technologicznego
+1. (Modele nietrwałe)  
+   - modele woskowe  
+   - modele z tworzyw sztucznych  
+   - modele z mas cukrowych
 
-- **Odlewanie grawitacyjne**
-  - do formy piaskowej
-  - do formy metalowej
-  - do formy ceramicznej
-- **Odlewanie ciśnieniowe**
-  - niskociśnieniowe
-  - wysokociśnieniowe
-- **Odlewanie odśrodkowe**
-  - poziome
-  - pionowe
-- **Odlewanie kokilowe**
-  - grawitacyjne
-  - ciśnieniowe
-- **Odlewanie precyzyjne**
-  - metoda traconego wosku
-  - metoda traconego modelu
+2. (Modele trwałe)  
+   - modele metalowe  
+   - modele z tworzyw sztucznych  
+   - modele drewniane
 
-## V. Ze względu na rodzaj produkcji
+## III. ZE WZGLĘDU NA RODZAJ MATERIAŁU ODLEWNICZEGO
 
-- **Produkcja jednostkowa**
-  - odlewy prototypowe
-  - odlewy jednostkowe
-- **Produkcja małoseryjna**
-  - odlewy małoseryjne
-- **Produkcja wielkoseryjna**
-  - odlewy wielkoseryjne
-- **Produkcja masowa**
-  - odlewy masowe
+1. (Odlewy z metali i ich stopów)  
+   - odlewy ze stopów żelaza  
+   - odlewy ze stopów metali nieżelaznych
+
+2. (Odlewy z tworzyw sztucznych)  
+   - odlewy z tworzyw termoplastycznych  
+   - odlewy z tworzyw termoutwardzalnych
+
+3. (Odlewy z materiałów ceramicznych)  
+   - odlewy z mas ceramicznych  
+   - odlewy z mas szklanych
+
+## IV. ZE WZGLĘDU NA RODZAJ PROCESU TECHNOLOGICZNEGO
+
+1. (Odlewanie grawitacyjne)  
+   - odlewanie do formy piaskowej  
+   - odlewanie do formy metalowej  
+   - odlewanie do formy ceramicznej
+
+2. (Odlewanie ciśnieniowe)  
+   - odlewanie niskociśnieniowe  
+   - odlewanie wysokociśnieniowe
+
+3. (Odlewanie odśrodkowe)  
+   - odlewanie poziome  
+   - odlewanie pionowe
+
+4. (Odlewanie kokilowe)  
+   - odlewanie kokilowe grawitacyjne  
+   - odlewanie kokilowe ciśnieniowe
+
+5. (Odlewanie precyzyjne)  
+   - metoda traconego wosku  
+   - metoda traconego modelu
+
+## V. ZE WZGLĘDU NA RODZAJ PRODUKCJI
+
+1. (Produkcja jednostkowa)  
+   - odlewy prototypowe  
+   - odlewy jednostkowe
+
+2. (Produkcja małoseryjna)  
+   - odlewy małoseryjne
+
+3. (Produkcja wielkoseryjna)  
+   - odlewy wielkoseryjne
+
+4. (Produkcja masowa)  
+   - odlewy masowe
 
 ---
+
