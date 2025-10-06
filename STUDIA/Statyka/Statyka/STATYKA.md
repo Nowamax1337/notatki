@@ -22,3 +22,5 @@
 #### Zasady (aksjomaty) statyki
 
 1. Zasada równoległoboku. Dowolne dwie siły P, i P₂, przyłożone do jednego punktu, zastąpić możemy siłą wypadkową W przyłożoną do tegoż punktu i przedstawioną jako wektor będący przekątną równoległoboku zbudowanego na wektorach sił.
+
+![[Pasted image 20251006133749.png]]
