@@ -1,1 +1,0 @@
-8/24/2025 21:00 zuzia użyła nworda (nigger)
