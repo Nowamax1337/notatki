@@ -101,3 +101,8 @@ Kryteria klasyfikacji:
 
 ---
 
+### Schemat wytwarzania
+
+1. płyta modelowa - bez niej się nie da
+	- nakładamy skrzynkę formierską
+	- zasypujemy masą formierską (piasek kwarcowy(100 części wagowych piasku) glina montmoryloninowa )
