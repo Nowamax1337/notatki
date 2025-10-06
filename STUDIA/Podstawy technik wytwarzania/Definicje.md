@@ -125,4 +125,5 @@ płynność - zdolność masy do równomiernego zagęszczenia przy użyciu jak n
 wytrzymałość
 
 ### Zjawiska w krzepnięciu metalu
-
+jama skurczowa (pusty środek) (można naprawić poprzez dodanie )
+zmiany wymiarowe
