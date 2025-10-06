@@ -105,4 +105,8 @@ Kryteria klasyfikacji:
 
 1. płyta modelowa - bez niej się nie da
 	- nakładamy skrzynkę formierską
-	- zasypujemy masą formierską (piasek kwarcowy(100 części wagowych piasku) glina montmoryloninowa )
+	- zasypujemy masą formierską (
+		1. piasek kwarcowy(100 części wagowych piasku)
+		2. glina montmorylonitowa(bentonit) 10 części wagowych
+		3. woda 
+		4. pył węglowy
