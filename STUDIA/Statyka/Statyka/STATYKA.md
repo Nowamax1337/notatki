@@ -24,3 +24,8 @@
 1. Zasada równoległoboku. Dowolne dwie siły P, i P₂, przyłożone do jednego punktu, zastąpić możemy siłą wypadkową W przyłożoną do tegoż punktu i przedstawioną jako wektor będący przekątną równoległoboku zbudowanego na wektorach sił.
 
 ![[Pasted image 20251006133749.png]]
+
+
+Twierdzenie o trzech siłach
+
+jeżeli ciało jest w równowadze pod działaniem 3 nierównoległych sił leżących w płaszczyźnie to linie działania tych sił muszą przecinać się w jednym punkcie a siły tworzyć trójkąt zamknięty
