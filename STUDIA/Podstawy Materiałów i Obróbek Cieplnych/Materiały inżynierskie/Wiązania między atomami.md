@@ -119,3 +119,25 @@ Podstawową cechą komórki elementarnej jest to że reprezentuje ona w pełni c
 
 ---
 
+# Kierunki sieciowe (krystalograficzne)
+
+Cyfry umieszczone w nawiasach kwadratowych reprezentują składowe wektora, leżącego wzdłuż danego kierunku krystalograficznego.
+![[Pasted image 20251009104354.png]]
+ Przykład oznaczania kierunków krystalograficznych w układzie regularnym
+
+---
+
+# Sieć regularna ściennie centrowana
+
+(RSC, A1, ang. FCC)
+
+![[Pasted image 20251009104702.png]]
+
+a) komórka elementarna sieci punktowej
+b) wydzielona komórka elementarna,
+c) fragment struktury krystalicznej z zaznaczoną komórką elementarna
+
+Lk = 12, La = 4, Wk = 74%
+krystalizują m.in.: Cu, Al, Ni, Fey, Ag, Au, Pb
+
+---
