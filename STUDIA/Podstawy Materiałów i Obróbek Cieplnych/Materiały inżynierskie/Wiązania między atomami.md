@@ -79,5 +79,32 @@ Do opisu prostych sieciowych i płaszczyzn sieciowych stosuje się **wskaźniki 
 
 --- 
 
-## Charakterystyka komórki elementarnej
+# Charakterystyka komórki elementarnej
 
+**Liczba koordynacyjna (Lₖ)**  
+Liczba najbliższych, równodległych atomów od dowolnego atomu w komórce  
+*(liczba wiązań przypadających na komórkę).*
+
+**Liczba atomów (Lₙ)**  
+Liczba atomów przypadająca na tę komórkę  
+*(pozwala określić gęstość upakowania).*
+
+**Wzór na liczbę atomów w komórce:**
+N = (1/8)·Nₖ + (1/4)·Nₙ + (1/2)·Nₛ + Nw
+
+- **Nₖ** — liczba atomów na narożach  
+- **Nₙ** — liczba atomów na krawędziach  
+- **Nₛ** — liczba atomów na ścianach  
+- **Nw** — liczba atomów wewnątrz komórki
+
+**Wypełnienie komórki (Wₙ)**  
+Stosunek objętości atomów przypadających na daną komórkę sieci  
+do objętości tej komórki.
+
+---
+
+# Geometria komórki elementarnej
+
+![[Pasted image 20251009103408.png]]
+
+Stałe sieciowe lub parametry sieciowe - długość krawędzi komórki elementarnej (a, b, c) i kąty między (𝛼, 𝛽, 𝛾)
