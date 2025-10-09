@@ -107,4 +107,15 @@ do objętości tej komórki.
 
 ![[Pasted image 20251009103408.png]]
 
-Stałe sieciowe lub parametry sieciowe - długość krawędzi komórki elementarnej (a, b, c) i kąty między (𝛼, 𝛽, 𝛾)
+Stałe sieciowe lub parametry sieciowe - długość krawędzi komórki elementarnej (a, b, c) i kąty między nimi (𝛼, 𝛽, 𝛾).
+
+Podstawową cechą komórki elementarnej jest to że reprezentuje ona w pełni całą strukturę krystaliczną.
+
+---
+# Płaszczyzny sieciowe (Krystalograficzne)
+
+![[Pasted image 20251009104102.png]]
+ Przykłady wskaźnikowania płaszczyzn sieciowych w komórce sześciennej.
+
+---
+
