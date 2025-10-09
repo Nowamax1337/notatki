@@ -160,7 +160,7 @@ Występowanie materiałów w formie różnych odmian krystalograficznych w zale�
 
 Np.
 
-aFe (RPC) → yFe (RSC) w 910°C, 
+ae (RPC) → yFe (RSC) w 910°C, 
 yFe (RSC) → aFe (RPC) w 1394°C, 
 αΤί (HZ) → ẞTI (RPC) w 880°C.
 
@@ -168,3 +168,4 @@ yFe (RSC) → aFe (RPC) w 1394°C,
 
 ---
 
+# Polimorfizm i alotropia meta
