@@ -205,3 +205,6 @@ Metale techniczne otrzymywane za pomocą konwencjonalnych metod metalurgicznych 
 
 Struktura polikrystaliczna stopu Cu - 30% Zn
 
+---
+
+# 
