@@ -198,3 +198,9 @@ optyczne, magnetyczne, elektryczne, chemiczne, cieplne
 
 ---
 
+# Struktura polikrystaliczna
+
+Metale techniczne otrzymywane za pomocą konwencjonalnych metod metalurgicznych są zwykle polikryształami. Składają się one z ziarn, z których każde ma w przybliżeniu prawidłową strukturę krystaliczną. Przypadkowa orientacja krystaliczna poszczególnych ziarn w metalach polikrystalicznych decyduje o niemal jednakowych własnościach tych materiałów w różnych kierunkach.
+
+Struktura polikrystaliczna stopu Cu - 30% Zn
+
