@@ -168,4 +168,33 @@ yFe (RSC) → aFe (RPC) w 1394°C,
 
 ---
 
-# Polimorfizm i alotropia meta
+# Polimorfizm i alotropia metali
+
+Odmiany alotropowe węgla
+- grafit
+- diament
+- fuleren
+![[Pasted image 20251009105838.png]]
+
+---
+
+# Odmiany alotropowe
+
+Odmiany alotropowe - odmiany danego pierwiastka polimorficznego o różnej budowie krystalicznej. Oznaczane są małymi literami alfabetu greckiego: α, β, γ, ō itd. począwszy od odmian stabilnych przy najniższej temperaturze.
+
+Przebudowie struktury krystalicznej metalu w temperaturze przemiany alotropowej towarzyszy zmiana energii wewnętrznej metalu, wyrażająca się przy nagrzewaniu pochłanianiem z zewnątrz, a przy chłodzeniu wydzielaniem do otoczenia określonej ilości ciepła zwanego ciepłem przemiany alotropowej.
+
+---
+
+# Anizotropia własności kryształów
+
+Periodyczny układ atomów w kryształach prowadzi do różnej gęstości obsadzenia atomami poszczególnych kierunków i płaszczyzn krystalograficznych, a tym samym do różnych odległości międzyatomowych w tych kierunkach. Wywołuje to zróżnicowanie własności kryształu w zależności od kierunku ich badania.
+
+Mechaniczne:
+twardość, granica plastyczności, wydłużenie, moduł sprężystości
+
+Fizyczne: 
+optyczne, magnetyczne, elektryczne, chemiczne, cieplne
+
+---
+
