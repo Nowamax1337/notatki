@@ -141,3 +141,30 @@ Lk = 12, La = 4, Wk = 74%
 krystalizują m.in.: Cu, Al, Ni, Fey, Ag, Au, Pb
 
 ---
+
+# Siec heksagonalna zwarta
+
+HZ, A3, ang. HCP
+
+![[Pasted image 20251009104808.png]]
+
+Lk = 12, La 12, Wk = 74%
+
+krystalizują m.in.: Zn, Mg, Cd, Be, Tia, Zra
+
+---
+
+# Polimorfizm
+
+Występowanie materiałów w formie różnych odmian krystalograficznych w zależności od parametrów stanu (ciśnienie, temperatura).
+
+Np.
+
+aFe (RPC) → yFe (RSC) w 910°C, 
+yFe (RSC) → aFe (RPC) w 1394°C, 
+αΤί (HZ) → ẞTI (RPC) w 880°C.
+
+![[Pasted image 20251009104950.png]]
+
+---
+
