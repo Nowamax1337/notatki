@@ -75,3 +75,9 @@ Typ wiązań między atomami a zdolność do odkształcenia plastycznego:
 **Komórka elementarna** – obszar powtarzany w sieci punktowej, zawiera najmniejszy, reprezentatywny fragment takiej samej jaką posiada cała sieć krystaliczna. Zawiera wszystkie punkty sieciowe i atomy wchodzące w skład sieci.
 
 Do opisu prostych sieciowych i płaszczyzn sieciowych stosuje się **wskaźniki Millera**.
+
+
+--- 
+
+## Charakterystyka komórki elementarnej
+
