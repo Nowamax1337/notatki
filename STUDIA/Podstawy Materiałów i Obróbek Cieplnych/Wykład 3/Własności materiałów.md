@@ -22,17 +22,27 @@ Charakterystyczne cechy:
 - wzajemne ilości składników nie wynikają z wartościowości chemicznej.
 
 ---
-## Gęs
+## Gęstość
 
 Gęstość - gęstość materiały jest to stosunek masy do objętości wyrażony najczęściej w Mg/m^3
 Gęstość zależy od:
 - rodzaju atomów pełniących role "budulca"
 - sposoby rozmieszczania atomów w przestrzeni (mniej lub bardziej zwarty)
 
+--- 
+
+## Sztywność - sprężystość
+
 Sztywność - określa odporność materiału na zmianę wymiarów (kształtu) w obszarze odkształceń sprężystych, tj. takich, które ustępują po usunięciu obciążenia. Odkształcenie sprężyste wiąże się z wychyleniem atomów z ich położeń równowagowych, któremu nie towarzyszy jednak rozerwanie więzi z sąsiadami.
 Odległość na jaką mogą przemieścić się atomy pod wpływem obciążenia zależy od:
 - wartości sił łączących atomy lub cząstki,
 - liczby połączeń między nimi przypadających na jednostkę powierzchni.
+
+Miarą sprężystości jest moduł sprężystości podawany zwykle w GPa
+
+
+---
+## Wytrzymałość
 
 Wytrzymałość
 - wytrzymałość statyczna,
@@ -42,3 +52,10 @@ Wytrzymałość
 - wytrzymałość (odporność) na zużycie wskutek tarcia,
 - wytrzymałość (odporność) na zużycie na skutek korozji.
 
+---
+
+## Wytrzymałość statyczna 
+
+Jest to odporność na działanie stalego lub narastającego powoli obciążenia.
+Przez wytrzymałość rozumie się naprężenie, po którego przekroczeniu na wykresie σε pojawia się odchylenie od linii prostej. W punkcie tym, zwanym granicą plastyczności Re, metal zaczyna odkształcać się trwale.
+Umowna granica plastyczności Ro2 odpowiada naprężeniu, pod wpływem którego metal doznaje względnego odkształcenia plastycznego 0,2%.
