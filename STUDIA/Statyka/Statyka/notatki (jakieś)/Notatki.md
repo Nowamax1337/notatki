@@ -1,4 +1,4 @@
-# Statyka – Notatki Obsidian
+# Statyka – Notatki GitHub
 
 ---
 
@@ -12,18 +12,18 @@ Ciało, którego punkty nie zmieniają wzajemnych odległości. Nie ulega odkszt
 
 **Stopnie swobody**  
 Liczba niezależnych parametrów opisujących położenie:
-- Punkt na prostej: $n = 1$
-- Punkt na płaszczyźnie: $n = 2$
-- Punkt w przestrzeni: $n = 3$
-- Tarcza/pręt na płaszczyźnie: $n = 3$
-- Bryła w przestrzeni: $n = 6$
+- Punkt na prostej: n = 1
+- Punkt na płaszczyźnie: n = 2
+- Punkt w przestrzeni: n = 3
+- Tarcza/pręt na płaszczyźnie: n = 3
+- Bryła w przestrzeni: n = 6
 
 **Więzy**  
 Ograniczenia ruchu punktu lub ciała sztywnego.
 
 **Siła**  
 Wzajemne oddziaływanie ciał (kontaktowe lub na odległość: grawitacyjne, elektrostatyczne, magnetyczne).  
-Jednostka w SI: $1\,\text{N} = 1\,\text{kg} \cdot \text{m/s}^2$  
+Jednostka w SI: 1 N = 1 kg·m/s²  
 Siła jest wielkością wektorową.
 
 ---
@@ -32,15 +32,11 @@ Siła jest wielkością wektorową.
 
 **1. Zasada równoległoboku**  
 Wypadkowa dwóch sił:  
-$$
-\vec{W} = \vec{P}_1 + \vec{P}_2
-$$
+W = P₁ + P₂
 
 **2. Zasada dwóch sił**  
 Siły równoważą się, gdy:  
-$$
-\vec{P} = -\vec{P}'
-$$
+P = –P′
 
 **3. Zasada dodania układu zerowego**  
 Dodanie lub odjęcie układu sił równoważących się nie zmienia działania układu sił.
@@ -57,99 +53,69 @@ Ciało nieswobodne można myślowo uwolnić od więzów, zastępując je siłami
 
 **Płaski układ sił skończonych**  
 Warunki równowagi:  
-$$
-\vec{W} = \vec{P}_1 + \vec{P}_2 + \ldots + \vec{P}_n = 0
-$$
-$$
-M_0 = M_1 + M_2 + \ldots + M_n = 0
-$$
+W = P₁ + P₂ + ... + Pₙ = 0  
+M₀ = M₁ + M₂ + ... + Mₙ = 0
 
 Równania równowagi:  
-$$
-\sum \vec{P} = 0
-$$
-$$
-\sum M_0 = 0
-$$
+ΣP = 0  
+ΣM₀ = 0
 
 **Płaski układ sił zbieżnych**  
 Warunek równowagi:  
-$$
-\vec{W} = \vec{p}_1 + \vec{p}_2 + \ldots + \vec{p}_n = \sum_{i=1}^{n} \vec{p}_i = 0
-$$
+W = p₁ + p₂ + ... + pₙ = Σ(pᵢ) = 0
 
 Przykład:  
-Kula o masie $m = 100\,\text{kg}$ spoczywa na dwóch gładkich powierzchniach pod kątem $30^\circ$ i $60^\circ$. Oblicz reakcje w punktach styku.
+Kula o masie m = 100 kg spoczywa na dwóch gładkich powierzchniach pod kątem 30° i 60°. Oblicz reakcje w punktach styku.
 
 ---
 
 ## 04 – Wypadkowa sił w płaszczyźnie
 
 Układ sił zbieżnych:  
-$$
-\vec{W} = \vec{P}_1 + \vec{P}_2 + \ldots + \vec{P}_n = \sum_{i=1}^{n} \vec{P}_i
-$$
+W = P₁ + P₂ + ... + Pₙ = Σ(Pᵢ)
 
 ---
 
 ## 05 – Moment siły względem punktu
 
 Wektorowo:  
-$$
-\vec{M}_O = \vec{r}_A \times \vec{P}
-$$
+M_O = r_A × P
 
 Skalarowo:  
-$$
-M_O = r_A \cdot P \cdot \sin \alpha = P \cdot h
-$$
+M_O = r_A · P · sin(α) = P · h
 
-Gdzie:  
-- $\vec{r}_A$ – wektor od punktu O do punktu przyłożenia siły  
-- $P$ – wartość siły  
-- $\alpha$ – kąt między $\vec{r}_A$ a $\vec{P}$  
-- $h$ – ramię siły (odległość od punktu O do linii działania siły)
+Gdzie:
+- r_A – wektor od punktu O do punktu przyłożenia siły  
+- P – wartość siły  
+- α – kąt między r_A a P  
+- h – ramię siły (odległość od punktu O do linii działania siły)
 
 ---
 
 ## 06 – Podpory płaskie
 
-| Rodzaj podpory               | Reakcje              |
-|-----------------------------|----------------------|
-| Przegubowa nieruchoma       | $V$, $H$             |
-| Przegubowa przesuwna        | $V$                  |
-| Sztywna (ściana, fundament) | $V$, $H$, moment     |
+| Rodzaj podpory               | Reakcje          |
+|-----------------------------|------------------|
+| Przegubowa nieruchoma       | V, H             |
+| Przegubowa przesuwna        | V                |
+| Sztywna (ściana, fundament) | V, H, moment     |
 
 ---
 
-## 07 – Warunki równowagi w $\mathbb{R}^2$
+## 07 – Warunki równowagi w R²
 
 Warunki:  
-$$
-\vec{V} = 0
-$$
-$$
-M_0 = 0
-$$
+V = 0  
+M₀ = 0
 
 Równania równowagi:  
-$$
-\sum F_x = 0
-$$
-$$
-\sum F_y = 0
-$$
-$$
-\sum M_0 = 0
-$$
+ΣFₓ = 0  
+ΣFᵧ = 0  
+ΣM₀ = 0
 
 Wektor siły:  
-$$
-\vec{V} = (V_x, V_y)
-$$
-$$
-V_x \leq R_x,\quad V_y \leq R_y
-$$
+V = (Vₓ, Vᵧ)  
+Vₓ ≤ Rₓ, Vᵧ ≤ Rᵧ
 
 ---
 
@@ -157,4 +123,4 @@ $$
 
 Układ sił zbieżnych: linie działania sił przecinają się w jednym punkcie w płaszczyźnie.
 
-Diagram: punkt $O$, z którego wychodzą siły $\vec{F}_1$, $\vec{F}_2$, $\vec{F}_3$, $\vec{F}_4$.
+Diagram: punkt O, z którego wychodzą siły F₁, F₂, F₃, F₄.
