@@ -18,7 +18,7 @@
 - Siła - wzajemne oddziaływanie ciał. Występują przy bezpośrednim zetknięciu się ciał lub na odległość (siły ciężkości, siły elektrostatyczne, siły magnetyczne
 
 
-![](Pasted%20image%2020251006133634.png)
+![asd](Pasted%20image%2020251006133634.png)
 
 #### Zasady (aksjomaty) statyki
 
