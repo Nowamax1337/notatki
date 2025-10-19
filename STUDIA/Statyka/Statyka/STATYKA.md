@@ -18,12 +18,11 @@
 - Siła - wzajemne oddziaływanie ciał. Występują przy bezpośrednim zetknięciu się ciał lub na odległość (siły ciężkości, siły elektrostatyczne, siły magnetyczne
 
 
-![img](Pasted%20image%2020251006133634.png)
+![](Pasted%20image%2020251006133634.png)
+
 #### Zasady (aksjomaty) statyki
 
 1. Zasada równoległoboku. Dowolne dwie siły P, i P₂, przyłożone do jednego punktu, zastąpić możemy siłą wypadkową W przyłożoną do tegoż punktu i przedstawioną jako wektor będący przekątną równoległoboku zbudowanego na wektorach sił.
-
-![[Pasted image 20251006133749.png]]
 
 
 Twierdzenie o trzech siłach
