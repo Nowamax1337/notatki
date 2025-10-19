@@ -25,14 +25,13 @@ Wiązania materiałów w zależności od typu wiązania
 
 ---
 Względny udział typów wiązań w podstawowych materiałach inżynierskich:
-
-![[Pasted image 20251002124720.png]]
+![](imgs/Pasted%20image%2020251002124720.png)
 
 ---
 
 Typ wiązań między atomami a zdolność do odkształcenia plastycznego:
 
-![[Pasted image 20251002124736.png]]
+![](imgs/Pasted%20image%2020251002124736.png)
 
 ---
 ## Typ wiązań między atomami a zdolność do odkształcenia plastycznego
@@ -105,7 +104,7 @@ do objętości tej komórki.
 
 # Geometria komórki elementarnej
 
-![[Pasted image 20251009103408.png]]
+![](imgs/Pasted%20image%2020251009103408.png)
 
 Stałe sieciowe lub parametry sieciowe - długość krawędzi komórki elementarnej (a, b, c) i kąty między nimi (𝛼, 𝛽, 𝛾).
 
@@ -114,7 +113,7 @@ Podstawową cechą komórki elementarnej jest to że reprezentuje ona w pełni c
 ---
 # Płaszczyzny sieciowe (Krystalograficzne)
 
-![[Pasted image 20251009104102.png]]
+![](imgs/Pasted%20image%2020251009104102.png)
  Przykłady wskaźnikowania płaszczyzn sieciowych w komórce sześciennej.
 
 ---
@@ -122,7 +121,7 @@ Podstawową cechą komórki elementarnej jest to że reprezentuje ona w pełni c
 # Kierunki sieciowe (krystalograficzne)
 
 Cyfry umieszczone w nawiasach kwadratowych reprezentują składowe wektora, leżącego wzdłuż danego kierunku krystalograficznego.
-![[Pasted image 20251009104354.png]]
+![](imgs/Pasted%20image%2020251009104354.png)
  Przykład oznaczania kierunków krystalograficznych w układzie regularnym
 
 ---
@@ -131,8 +130,7 @@ Cyfry umieszczone w nawiasach kwadratowych reprezentują składowe wektora, leż
 
 (RSC, A1, ang. FCC)
 
-![[Pasted image 20251009104702.png]]
-
+![](imgs/Pasted%20image%2020251009104702.png)
 a) komórka elementarna sieci punktowej
 b) wydzielona komórka elementarna,
 c) fragment struktury krystalicznej z zaznaczoną komórką elementarna
@@ -146,7 +144,7 @@ krystalizują m.in.: Cu, Al, Ni, Fey, Ag, Au, Pb
 
 HZ, A3, ang. HCP
 
-![[Pasted image 20251009104808.png]]
+![](imgs/Pasted%20image%2020251009104808.png)
 
 Lk = 12, La 12, Wk = 74%
 
@@ -164,7 +162,7 @@ ae (RPC) → yFe (RSC) w 910°C,
 yFe (RSC) → aFe (RPC) w 1394°C, 
 αΤί (HZ) → ẞTI (RPC) w 880°C.
 
-![[Pasted image 20251009104950.png]]
+![](imgs/Pasted%20image%2020251009104950.png)
 
 ---
 
@@ -174,7 +172,7 @@ Odmiany alotropowe węgla
 - grafit
 - diament
 - fuleren
-![[Pasted image 20251009105838.png]]
+![](imgs/Pasted%20image%2020251009105838.png)
 
 ---
 
@@ -201,10 +199,8 @@ optyczne, magnetyczne, elektryczne, chemiczne, cieplne
 # Struktura polikrystaliczna
 
 Metale techniczne otrzymywane za pomocą konwencjonalnych metod metalurgicznych są zwykle polikryształami. Składają się one z ziarn, z których każde ma w przybliżeniu prawidłową strukturę krystaliczną. Przypadkowa orientacja krystaliczna poszczególnych ziarn w metalach polikrystalicznych decyduje o niemal jednakowych własnościach tych materiałów w różnych kierunkach.
-![[Pasted image 20251009110736.png]]
+![](imgs/Pasted%20image%2020251009110736.png)
 
 Struktura polikrystaliczna stopu Cu - 30% Zn
 
 ---
-
-# 
