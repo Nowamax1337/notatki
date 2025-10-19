@@ -1,4 +1,4 @@
-![[Pasted image 20251002125414.png]]
+![](imgs/Pasted%20image%2020251002125414.png)
 Metale i stopy
 
 stop to mieszanina dwóch lub więcej metali
