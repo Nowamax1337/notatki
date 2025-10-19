@@ -60,7 +60,7 @@ Jest to odporność na działanie stalego lub narastającego powoli obciążenia
 Przez wytrzymałość rozumie się naprężenie, po którego przekroczeniu na wykresie σε pojawia się odchylenie od linii prostej. W punkcie tym, zwanym granicą plastyczności Re, metal zaczyna odkształcać się trwale.
 Umowna granica plastyczności Ro2 odpowiada naprężeniu, pod wpływem którego metal doznaje względnego odkształcenia plastycznego 0,2%.
 
-![](img/Pasted%20image%2020251016111813.png)
+	![](img/Pasted%20image%2020251016111813.png)
 ![](img/Pasted%20image%2020251016111907.png)
 ![](img/Pasted%20image%2020251016111925.png)
 
