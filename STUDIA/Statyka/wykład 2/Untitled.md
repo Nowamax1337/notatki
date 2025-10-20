@@ -10,3 +10,4 @@ Moment siły wypadkowej równoległego (płaskiego) układu sił względem dowol
 ---
 
 ![](img/Pasted%20image%2020251020134248.png)
+![](img/Pasted%20image%2020251020134851.png)
