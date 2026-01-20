@@ -35,4 +35,10 @@ Przekrój stopniowy - jest to przekrój dwiema lub więcej płaszczyznami równo
 - Falista/Zygzakowana 
   - Wyrwania
 
-#### Prosze wymienić rodzaje i zastosowanie podziałek rysunkowych oraz o
+#### Proszę wymienić rodzaje i zastosowanie podziałek rysunkowych oraz podać ciąg podziałki zwiększającej
+- Podziałka zwiększająca 
+  - 50:1, 20:1, 10:1, 5:1, 2:1
+  - Podziałka zwiększająca stosowana do małych przedmiotów które należy powiększyć aby były odpowiednio czytelne
+- Podziałka zmniejszająca
+  - Podziałka zmniejszająca stosowana do dużych obiektów aby zmieścić je na arku 
+- Podziałka normalna
