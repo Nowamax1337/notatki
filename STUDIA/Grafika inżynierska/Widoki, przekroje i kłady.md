@@ -7,7 +7,19 @@ podziałka kreskowa zależy od wielkości kreskowanego pola i może wynosić od 
 Różnią się przekroje proste, powstałe przez przesunięcie przedmiotu jedną płaszczyzną i przekroje złożone powstałe przez przesunięcie przedmiotu dwiema lub więcej płaszczyznami
 
 ### Przekroje złożone dzieli się na łamane i stopniowe:
+
+![](img/Pasted%20image%2020260120051759.png)
+
 - przekrój łamany jest to przekrój dwiema lub więcej płaszczyznami, których ślady tworzą linie łamana o kątach rozwartych. Przekrój taki sprowadza się do jednej płaszczyzny
+  ![](img/Pasted%20image%2020260120051735.png)
 
 
-- Przekrój stopniowy jest to przekrój dwiema lub więcej płaszczyznami, na rzucie przedstawia się tylko część przedmiotu leżącą w tych płaszczyznach
+- Przekrój stopniowy jest to przekrój dwiema lub więcej płaszczyznami, na rzucie przedstawia się tylko część przedmiotu leżącą w tych płaszczyznach.
+  ![](img/Pasted%20image%2020260120051718.png)
+
+### Przekroje pionowe i poziome
+Są one równoległe lub prostopadłe do płaszczyzny rzutów z góry i ukośnie
+
+## Kłady
+Są to zarysy figury płaskiej leżącej w płaszczyźnie poprzecznego przekroju przedmiotu, obrócony wraz z tą płaszczyzną o 90 stopni i położony na widoku przedmiotu (kład miejscowy) lub poza jego zarysem
+
