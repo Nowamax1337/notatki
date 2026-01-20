@@ -39,6 +39,13 @@ Przekrój stopniowy - jest to przekrój dwiema lub więcej płaszczyznami równo
 - Podziałka zwiększająca 
   - 50:1, 20:1, 10:1, 5:1, 2:1
   - Podziałka zwiększająca stosowana do małych przedmiotów które należy powiększyć aby były odpowiednio czytelne
+
 - Podziałka zmniejszająca
-  - Podziałka zmniejszająca stosowana do dużych obiektów aby zmieścić je na arku 
+  - Podziałka zmniejszająca stosowana do dużych obiektów aby zmieścić je na arkuszu rysunkowych 
+
 - Podziałka normalna
+  - Stosowana gdy wymiary na rysunku są równe wymiarom rzeczywistym przedmiotu
+
+![](img/Pasted%20image%2020260120054908.png)
+Większe formaty tworzy się poprzez podwojenie najkrótszej strony mniejszego formatu
+A3 -> 420 x 297
