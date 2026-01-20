@@ -21,7 +21,26 @@ Do wykonywania rysunków technicznych maszynowych służą następujące linie:
 	- linii wykresowych
 
 3. Linia cienka ciągła
+	- linii wymiarowych
+	- pomocniczych linii wykonawczych
+	- linii pomocniczych
+	- kreskowania przekroju
+	- zarysów kładów miejscowych
+	- zarysów rdzeni gwintów
+	- osi kół średnicy =< 12mm oraz innych osi przedmiotów o wymiarze =< 12mm
+	- przekątnych prostokątów, kwadratów i trapezów przez widoczne krawędzie
+	- linii przenikania w miejscach łagodnie zaokrąglonych
+
 4. Linia kreskowana
+	- niewidocznych krawędzi i zarysów przedmiotów
+	- linii wykresowych
+
 5. Linia punktowa cienka
+	- osi symetrii i środków płaszczyzn symetrii
+	- linii podziałowych w kołach zębatych
+	- osi okręgów ponad 12mm
+	- l
 6. Linia punktowa gruba
-7. Linia dwupunkto
+7. Linia dwupunktowa cienka
+8. Linia falista
+9. Linia zygzakowa
