@@ -39,8 +39,23 @@ Do wykonywania rysunków technicznych maszynowych służą następujące linie:
 	- osi symetrii i środków płaszczyzn symetrii
 	- linii podziałowych w kołach zębatych
 	- osi okręgów ponad 12mm
-	- l
+	- linii wykresowych
+
 6. Linia punktowa gruba
+	- linii zaznaczonych powierzchownie podlegające obróbce cieplnej lub powierzchniowej
+	- linii wykresowych
+
 7. Linia dwupunktowa cienka
+	- skrajnych położeń części ruchomych
+	- zarysów przedmiotów przylegających, dorysowanych do celów orientacyjnych
+	- pierwotnego kształtu przedmiotu
+	- ostatecznego kształtu przedmiotu
+	- linii gięcia przedmiotu przedstawionego w rozwinięciu
+	- linii osi ciężkości
+
 8. Linia falista
+	- linii urwania i przerwania przedmiotów, gdy linie te rysuje się odręcznie
+	- linii ograniczających przekroje cząstkowe
+
 9. Linia zygzakowa
+	- do tych samych co faliste ale gdy maszynowo się je rysuje
