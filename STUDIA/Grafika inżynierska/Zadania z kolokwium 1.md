@@ -25,5 +25,14 @@ Przekrój stopniowy - jest to przekrój dwiema lub więcej płaszczyznami równo
 - Linia bardzo gruba (2a)
   - połączenia lutowane i klejone
 - Linia gruba (a)
-  -ciągła - konturowanie i obrys widoczny
-- 
+  - ciągła - konturowanie i obrys widoczny
+  - długa z kreską i kropką - powierzchnie obróbki cieplnej lub powierzchniowej
+- Linia cienka (0.5a)
+  - ciągła - linie pomocnicze, wymiarowe, symbole, oznaczenia, kreskowanie
+  - kreskowana - krawędzie niewidoczne
+  - kreska kropka - oś symetrii i oś obrotu
+  - kreska dwie kropki - położenie po przemieszczeniu, łączniki, ślady kształtu przed obróbką, zagięcia
+- Falista/Zygzakowana 
+  - Wyrwania
+
+#### Prosze wymienić rodzaje i zastosowanie podziałek rysunkowych oraz o
