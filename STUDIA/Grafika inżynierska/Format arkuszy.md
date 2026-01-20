@@ -4,4 +4,4 @@ A3 = 2 A4
 A2 = 2 A3 = 4 A4
 A1 = 2 A2 = 4 A3 = 8 A4
 
-Każdy arkusz powinien mieć obramowanie pola rysunku w odległości a od lini obicęcia kopii, przy czym a = 5mm
+Każdy arkusz powinien mieć obramowanie pola rysunku w odległości a od linii obicęcia kopii, przy czym a = 5mm
