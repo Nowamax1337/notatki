@@ -21,5 +21,7 @@ Różnią się przekroje proste, powstałe przez przesunięcie przedmiotu jedną
 Są one równoległe lub prostopadłe do płaszczyzny rzutów z góry i ukośnie
 
 ## Kłady
-Są to zarysy figury płaskiej leżącej w płaszczyźnie poprzecznego przekroju przedmiotu, obrócony wraz z tą płaszczyzną o 90 stopni i położony na widoku przedmiotu (kład miejscowy) lub poza jego zarysem
+Są to zarysy figury płaskiej leżącej w płaszczyźnie poprzecznego przekroju przedmiotu, obrócony wraz z tą płaszczyzną o 90 stopni i położony na widoku przedmiotu (kład miejscowy) lub poza jego zarysem (kład przesunięty)
+![](img/Pasted%20image%2020260120052226.png)
+
 
