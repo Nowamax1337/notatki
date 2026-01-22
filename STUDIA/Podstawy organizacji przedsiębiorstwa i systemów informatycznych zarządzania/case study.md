@@ -10,5 +10,5 @@
 
 **Dotyczy:** Strategii wdrożenia zintegrowanego systemu klasy MRP/ERP
 
-### 1. Jakość (funkcjonalność) produktu finałow
+### 1. Jakość (funkcjonalność) produktu finałowego
 
