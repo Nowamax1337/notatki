@@ -64,8 +64,10 @@ Do analizy wybrano trzy systemy popularne na polskim rynku, zdolne obsłużyć s
 | 20  | **Wsparcie techniczne**        | Szeroka sieć partnerów          | Producent + Partnerzy        | Szeroka sieć partnerów     |
 
 ---
+## III. Wnioski dotyczące zasadności wyboru
 
-Na podstawie przeprowadzonej analizy oraz specyfiki działalności PROMEB Sp. z o.o. zalecam wybór systemu **Comarch ERP XL**.
+
+Na podstawie przeprowadzonej analizy oraz specyfiki działalności PROMEB Sp. z o.o. zalecany jest wybór systemu **Comarch ERP XL**.
 
 **Uzasadnienie:**
 Głównym argumentem przemawiającym za tym systemem jest jego wyjątkowa w tej klasie zdolność do **hybrydyzacji produkcji dyskretnej i procesowej**. Firma PROMEB, która zajmuje się produkcją mebli (produkcja dyskretna – płyty, okucia), wykorzystuje również materiały w procesach chemicznych (produkcja procesowa – kleje, lakiery, bejce), gdzie normy zużycia opierają się na recepturach, a nie na stałych ilościach. Comarch ERP XL posiada dedykowane mechanizmy do obsługi obu tych obszarów jednocześnie.
