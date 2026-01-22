@@ -36,4 +36,40 @@ Wdrożenie systemu ERP to konieczność, by utrzymać tempo rozwoju PROMEB. Pozw
 
 ---
 
+## II. Analiza porównawcza systemów ERP - PRODUKCJA
 
+Do analizy wybrano trzy systemy popularne na polskim rynku, zdolne obsłużyć specyfikę PROMEB.
+  
+| Lp. | Kryterium                      | System A: Comarch ERP XL        | System B: Streamsoft Prestiż | System C: Symfonia ERP     |
+| :-- | :----------------------------- | :------------------------------ | :--------------------------- | :------------------------- |
+| 1   | **Producent**                  | Comarch S.A. (Polska)           | Streamsoft (Polska)          | Symfonia (Polska)          |
+| 2   | **Profil Produkcji**           | Dyskretna i Procesowa (Hybryda) | Silny nacisk na Dyskretną    | Głównie Dyskretna          |
+| 3   | **Obsługa BOM**                | Zaawansowana, wielopoziomowa    | Zaawansowana, import z CAD   | Standardowa                |
+| 4   | **Obsługa Receptur**           | Dedykowany moduł "Receptury"    | Obsługa w ramach technologii | Podstawowa                 |
+| 5   | **Rozliczanie chemii (kleje)** | Bardzo dobre (zamienniki)       | Precyzyjne rozliczanie       | Wymaga konfiguracji        |
+| 6   | **Konfigurator Produktu**      | Tak (wbudowany)                 | Tak                          | Moduł dodatkowy            |
+| 7   | **Planowanie (MRP)**           | Zaawansowane                    | Zaawansowane (met. APICS)    | Podstawowe                 |
+| 8   | **Harmonogramowanie**          | Wykresy Gantta, Drag&Drop       | Panel produkcyjny            | Harmonogram zleceń         |
+| 9   | **Magazyn (WMS)**              | Zintegrowany (Comarch WMS)      | Zintegrowany                 | Mobilny Magazyn            |
+| 10  | **Kadry i Płace**              | Pełna integracja                | Pełna integracja             | Bardzo silny moduł rynkowy |
+| 11  | **Finanse (FK)**               | Zintegrowane, wysoka klasa      | Zintegrowane                 | Lider rynku księgowego     |
+| 12  | **Baza danych**                | MS SQL Server                   | MS SQL Server                | MS SQL Server              |
+| 13  | **Skalowalność**               | Duża (średnie i duże firmy)     | Duża (dedykowany produkcji)  | Średnia (MŚP)              |
+| 14  | **Interfejs**                  | Nowoczesny (Wstążka)            | Okienkowy/Panelowy           | Klasyczny/Webowy           |
+| 15  | **Mobilność**                  | Aplikacje na kolektory/tablety  | Panel Mistrza na tablety     | Mobilny Kierownik          |
+| 16  | **Raportowanie (BI)**          | Wbudowane Business Intelligence | Moduły analityczne           | Raporty własne             |
+| 17  | **Model zakupu**               | Licencja / Subskrypcja / Chmura | Licencja / Chmura            | Subskrypcja                |
+| 18  | **Popularność w meblarstwie**  | Bardzo wysoka                   | Wysoka                       | Średnia                    |
+| 19  | **Koszt wdrożenia**            | Średni / Wysoki                 | Średni                       | Średni                     |
+| 20  | **Wsparcie techniczne**        | Szeroka sieć partnerów          | Producent + Partnerzy        | Szeroka sieć partnerów     |
+
+---
+
+Na podstawie przeprowadzonej analizy oraz specyfiki działalności PROMEB Sp. z o.o. zalecam wybór systemu **Comarch ERP XL**.
+
+**Uzasadnienie:**
+Głównym argumentem przemawiającym za tym systemem jest jego wyjątkowa w tej klasie zdolność do **hybrydyzacji produkcji dyskretnej i procesowej**. Firma PROMEB, która zajmuje się produkcją mebli (produkcja dyskretna – płyty, okucia), wykorzystuje również materiały w procesach chemicznych (produkcja procesowa – kleje, lakiery, bejce), gdzie normy zużycia opierają się na recepturach, a nie na stałych ilościach. Comarch ERP XL posiada dedykowane mechanizmy do obsługi obu tych obszarów jednocześnie.
+
+Ponadto system posiada wbudowany **konfigurator produktów**, który ma kluczowe znaczenie dla produkcji mebli „na indywidualne zamówienia klientów”. Pozwala to na automatyczne generowanie technologii i cen w oparciu o parametry podane przez klienta, zastępując ręczne, pracochłonne obliczenia.
+
+Wybór polskiego producenta (Comarch) zapewnia również bezpieczeństwo w zakresie szybkiego dostosowania się do zmian w polskim prawie podatkowym i prawie pracy, co jest ważne dla firmy z 100% kapitałem krajowym, która chce uniknąć ryzyka prawnego i podatkowego związanego z przestarzałym oprogramowaniem DOS.
