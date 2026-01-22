@@ -17,3 +17,23 @@ Rekomendowany system ERP musi być rozwiązaniem hybrydowym, obsługującym spec
 * **Integracja:** System musi spiąć "wyspy informacyjne": finanse, kadry, magazyn i produkcję w jedną bazę danych, zapewniając dostęp do informacji w czasie rzeczywistym.
 
 ### 2. Koszt oprogramowania
+Inwestycję należy traktować w kategoriach ROI (zwrotu z inwestycji), a nie tylko kosztu.
+* Rekomenduje się wybór systemu w modelu, który pozwoli na elastyczne skalowanie (np. subskrypcja lub leasing licencji), co nie obciąży jednorazowo kapitału obrotowego firmy.
+* Koszt musi obejmować nie tylko licenzje, ale przede wszystkim analizę przedwdrożeniową i szkolenia dla personelu, który dotychczas pracował na przestarzałych narzędziach.
+
+### 3. Serwis, aktualizacja funkcjonalna i techniczna
+Ze względu na 100% polskiego kapitału i działanie w polskim otoczeniu prawnym:
+* Wymagany jest dostawca krajowy lub globalny z silnym polskim oddziałem, gwarantujący zgodność z przepisami (JPK, KSeF, RODO).
+* Obecne oprogramowanie DOS nie posiada wsparcia – nowy system musi posiadać gwarancję SLA (Service Level Agreement) na min. 99% dostępności.
+
+### 4. Prace adaptacyjne i rozwojowe
+System pudełkowy nie pokryje w 100% potrzeb PROMEB.
+* Konieczne są prace programistyczne (customizacja) w obszarze konfiguratora produktu (meble na indywidualne zamówienie) oraz integracji z nowymi liniami produkcyjnymi.
+* System musi być otwarty (API) na przyszłe wdrożenia, np. system B2B dla kontrahentów.
+
+### 5. Podsumowanie
+Wdrożenie systemu ERP to konieczność, by utrzymać tempo rozwoju PROMEB. Pozwoli to na przejście z zarządzania intuicyjnego na zarządzanie oparte na danych, precyzyjne ofertowanie (dzięki dokładnym kosztom produkcji) oraz zabezpieczenie ciągłości działania firmy, która obecnie jest zagrożona przez archaiczne technologie.
+
+---
+
+
