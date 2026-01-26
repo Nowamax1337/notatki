@@ -1,7 +1,6 @@
 # Informatyzacja przedsiębiorstwa produkcyjnego PROMEB Sp. z o.o.
 
-**Imię i nazwisko:** Maks Nowacki, Bartosz Krzyżański, Wiktor Michałowski
-**Numer albumu:** 344397, 344381, 344391
+**Imię i nazwisko:** Maks Nowacki 344397, Bartosz Krzyżański 344381, Wiktor Michałowski 344391
 **Miejscowość, data:** Warszawa, 22.01.2026 r.
 
 ---
