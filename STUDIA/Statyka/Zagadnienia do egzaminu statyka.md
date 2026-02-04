@@ -65,10 +65,20 @@
 	  $W=P_1+P_2+...+P_n=\sum\limits^{n}_{i=1}{Pi}$
 
 - Równania równowagi płaskiego układu ził zbieżnych
-	$\sum\limits^{n}_{i=1}{Pxi}=0$            $\sum\limits^{n}_{i=1}{Pyi}=0$
+	$\sum\limits^{n}_{i=1}{P_{xi}}=0$            $\sum\limits^{n}_{i=1}{P_{yi}}=0$
 
 ## 8. Moment siły względem punktu
 
 - Moment siły $\vec{P}$ względem punktu $O$ nazywamy wektor normalny do płaszczyzny $H$ zaczepiony w punkcie $O$ , równy iloczynowi wektorowemu wektora $\vec{r}$ i siły $\vec{P}$
 	  $\vec{M_0}=\vec{r}*\vec{P}$
 	  
+	![](img/Pasted%20image%2020260204182926.png)
+
+## 9. Płaski układ sił równoległych
+
+- Układ sił, których linie działania leżą w jednej płaszczyźnie i są do siebie równoległe
+	  Warunki równowagi:
+	  $W=0$     $M_0=0$
+
+- Równanie równowagi
+  $\sum\limits^{n}_{i=1}{P_{xi}}=0$  $\sum\limits^{n}_{i=1}{P_{yi}}=0$  $\sum\limits^{n}_{i=1}{M_{i0}}=0$  $\sum\limits^{n}_{i=1}{M_{iA}}=0$  
