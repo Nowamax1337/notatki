@@ -82,3 +82,13 @@
 
 - Równanie równowagi
   $\sum\limits^{n}_{i=1}{P_{xi}}=0$  $\sum\limits^{n}_{i=1}{P_{yi}}=0$  $\sum\limits^{n}_{i=1}{M_{i0}}=0$  $\sum\limits^{n}_{i=1}{M_{iA}}=0$  
+
+
+## 12. Tarcie ślizgowe i prawa tarcia ślizgowego
+
+![](img/Pasted%20image%2020260204183643.png)
+
+- Prawa tarcia:
+  1. Siła tarcia jest niezależna od wielości stykających się ze sobą ciał, zależy tylko i wyłącznie od rodzaju tych powierzchni.
+  2. Wielkość siły tarcia dla ciała w spoczynku może się zmieniać od $0$ do maksymalnej wartości proporcjonalnej do nacisku normalnego.
+  3. W przypadku, gdy ciało ślizga się po powierzchni, siła $T$ skierowana jest zawsze w przeciwnym kierunku do ruchu lub prędkości poślizgu.
