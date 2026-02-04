@@ -69,4 +69,6 @@
 
 ## 8. Moment siły względem punktu
 
-- Moment siły $\vec{P}$ względem punktu $O$ nazywamy wektor normalny do płaszczyzny $H$ zaczepiony w punkcie $O$ , równy iloczynowi wektorowemu wektora $\vec{r}$ i sił
+- Moment siły $\vec{P}$ względem punktu $O$ nazywamy wektor normalny do płaszczyzny $H$ zaczepiony w punkcie $O$ , równy iloczynowi wektorowemu wektora $\vec{r}$ i siły $\vec{P}$
+	  $\vec{M_0}=\vec{r}*\vec{P}$
+	  
