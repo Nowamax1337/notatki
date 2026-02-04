@@ -61,4 +61,7 @@
 
 ## 7. Równowaga płaskiego układu sił zbieżnych
 
-- Warunek równowagi płaskiego dla układu 
+- Warunek równowagi płaskiego dla układu sił zbieżnych
+  $W=P_1+P_2+...+P_n=\sum\limits^{n}_{i=1}{Pi}$
+
+- Równania rów
