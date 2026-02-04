@@ -29,5 +29,24 @@
 2. Jeśli do układu sił dodamy lub odejmiemy układ sił równoważny zeru (spełniający aksjomat 1), to działanie na ciało wyjściowego układu sił nie ulegnie zmianie. 
    Każdemu działaniu towarzyszy przeciwdziałanie, które jest równe co do wartości, działające na tej samej prostej, lecz przeciwnie skierowane.
 
-3. Wypadkowa dwóch sił przechodzi przez punkt ich przecięcia i wyraża się długością przekątnej równoległoboku zbudowanego na tych siłach (wypadkowa dwóch sił jest wektorową sumą swoich dwóch składowych, każde ciało nieswobodne które możemy myślowo oswobodzić z więzów, możemy nastąpić odpowiednimi reakcjami, analize układu wielu sił można uprościć do równowagi kilku sił wypadkowych)
+3. Wypadkowa dwóch sił przechodzi przez punkt ich przecięcia i wyraża się długością przekątnej równoległoboku zbudowanego na tych siłach (wypadkowa dwóch sił jest wektorową sumą swoich dwóch składowych, każde ciało nieswobodne które możemy myślowo oswobodzić z więzów, możemy nastąpić odpowiednimi reakcjami, analizę układu wielu sił można uprościć do równowagi kilku sił wypadkowych)
+
+4. Wszelkiemu działaniu siły odpowiada równe i przeciwnie skierowane działanie
+
+5. Równowaga ciała odkształconego nie zostaje naruszona, jeżeli to ciało stanie się ciałem sztywnym.
    
+6. Ciało nieswobodne możemy traktować jako ciało swobodne jeżeli myślowo uwolni się je od więzów zastępując ich działanie odpowiednimi reakcjami.
+
+## 4. Podpory płaskie
+
+- podpora przegubowo nieprzesuwna - reakcja pozioma i pionowa
+  
+- Podpora przegubowo przesuwna - reakcja pionowa
+
+- Podpora sztywna (Pozioma, pionowa + moment)
+
+- pręty / cięgna
+
+## 5. Układ statycznie wyznaczalny
+
+- Jest to układ, dla którego z równań reakcji można jednoznacznie wyznaczyć siły reakcji. Dla takiego układu liczba r
