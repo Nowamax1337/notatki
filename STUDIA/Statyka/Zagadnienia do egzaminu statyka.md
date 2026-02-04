@@ -49,4 +49,10 @@
 
 ## 5. Układ statycznie wyznaczalny
 
-- Jest to układ, dla którego z równań reakcji można jednoznacznie wyznaczyć siły reakcji. Dla takiego układu liczba r
+- Jest to układ, dla którego z równań reakcji można jednoznacznie wyznaczyć siły reakcji. Dla takiego układu liczba reakcji jest równa liczbie równań równowagi.
+  
+## 6.  Wypadkowa sił zbieżnych
+
+- Układ sił, których linie działania leżą w jednej płaszczyźnie i przecinają się w jednym punkcie, nazywamy to układem sił zbieżnych.
+  
+- Dowolny płaski układ $n$ sił przyłożonych do punktu $0$ możemy zastąpić siłą wypadkową $W$ równą sumie geometrycznej tych sił i przyłożoną również do punktu $0$
