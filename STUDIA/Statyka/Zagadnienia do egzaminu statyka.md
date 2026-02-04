@@ -92,3 +92,10 @@
   1. Siła tarcia jest niezależna od wielości stykających się ze sobą ciał, zależy tylko i wyłącznie od rodzaju tych powierzchni.
   2. Wielkość siły tarcia dla ciała w spoczynku może się zmieniać od $0$ do maksymalnej wartości proporcjonalnej do nacisku normalnego.
   3. W przypadku, gdy ciało ślizga się po powierzchni, siła $T$ skierowana jest zawsze w przeciwnym kierunku do ruchu lub prędkości poślizgu.
+
+## 13. Tarcie toczne
+
+![](img/Pasted%20image%2020260204190924.png)
+
+## 14. Tarcie cięgien
+![](img/Pasted%20image%2020260204190954.png)
