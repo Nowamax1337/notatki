@@ -62,6 +62,11 @@
 ## 7. Równowaga płaskiego układu sił zbieżnych
 
 - Warunek równowagi płaskiego dla układu sił zbieżnych
-  $W=P_1+P_2+...+P_n=\sum\limits^{n}_{i=1}{Pi}$
+	  $W=P_1+P_2+...+P_n=\sum\limits^{n}_{i=1}{Pi}$
 
-- Równania rów
+- Równania równowagi płaskiego układu ził zbieżnych
+	$\sum\limits^{n}_{i=1}{Pxi}=0$            $\sum\limits^{n}_{i=1}{Pyi}=0$
+
+## 8. Moment siły względem punktu
+
+- Moment siły $\vec{P}$ względem punktu $O$ nazywamy wektor normalny do płaszczyzny $H$ zaczepiony w punkcie $O$ , równy iloczynowi wektorowemu wektora $\vec{r}$ i sił
