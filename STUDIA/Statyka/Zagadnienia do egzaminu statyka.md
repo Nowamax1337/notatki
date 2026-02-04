@@ -56,3 +56,9 @@
 - Układ sił, których linie działania leżą w jednej płaszczyźnie i przecinają się w jednym punkcie, nazywamy to układem sił zbieżnych.
   
 - Dowolny płaski układ $n$ sił przyłożonych do punktu $0$ możemy zastąpić siłą wypadkową $W$ równą sumie geometrycznej tych sił i przyłożoną również do punktu $0$
+- 
+![](img/Pasted%20image%2020260204181244.png)
+
+## 7. Równowaga płaskiego układu sił zbieżnych
+
+- Warunek równowagi płaskiego dla układu 
