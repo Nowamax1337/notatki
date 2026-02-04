@@ -86,7 +86,7 @@
 
 ## 12. Tarcie ślizgowe i prawa tarcia ślizgowego
 
-![](img/Pasted%20image%2020260204183643.png)
+![](img/Pasted%20image%2020260204184626.png)
 
 - Prawa tarcia:
   1. Siła tarcia jest niezależna od wielości stykających się ze sobą ciał, zależy tylko i wyłącznie od rodzaju tych powierzchni.
