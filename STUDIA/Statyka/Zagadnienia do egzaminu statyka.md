@@ -98,4 +98,17 @@
 ![](img/Pasted%20image%2020260204190924.png)
 
 ## 14. Tarcie cięgien
+
 ![](img/Pasted%20image%2020260204190954.png)
+
+## 15. Wypadkowa sił zbieżnych w przestrzeni.
+
+| $\sum\limits^{n}_{i=1}{P_{ix}}=0$ | $\sum\limits^{n}_{i=1}{P_{iy}}=0$ | $\sum\limits^{n}_{i=1}{P_{iz}}=0$ |
+| --------------------------------- | --------------------------------- | --------------------------------- |
+| $\sum\limits^{n}_{i=1}{M_{ix}}=0$ | $\sum\limits^{n}_{i=1}{M_{iy}}=0$ | $\sum\limits^{n}_{i=1}{M_{iz}}=0$ |
+## 16. Równowaga przestrzennego układu sił
+
+
+## 21. Środek ciężkości 
+
+- Punkt przyłożenia wypadkowej sił ciężkości działających na ciało w dowolnych pu
