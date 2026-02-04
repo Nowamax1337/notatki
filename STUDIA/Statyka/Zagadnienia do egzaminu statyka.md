@@ -16,10 +16,18 @@
 
 ## 2. Prawa Newtona
 
-1. punkt materialny, na który nie działają żadne siły pozostaje w spoczynku lib porusza się ruchem jednostajnym po linii prostej
-2. przyśpieszenie punktu materialnego jest proporcjonalne do siły działającej na ten punkt i ma kierunek tej siły
+1. Punkt materialny, na który nie działają żadne siły pozostaje w spoczynku lib porusza się ruchem jednostajnym po linii prostej.
+   
+2. Przyśpieszenie punktu materialnego jest proporcjonalne do siły działającej na ten punkt i ma kierunek tej siły.
+   
 3. Siły wzajemnego oddziaływania dwóch punktów materialnych, są równe co do wartości, leżą na jednej prostej i są przeciwnie skierowane.
 
 ## 3. Aksjomaty statyki
 
-1. Dwie siły przyłożone do ciała sztywnego równoważą się wzajemnie, jeśli mają jednakowe wartości, działają wzdłuż jednej prostej i mają przeciwe zwroty (ich siła wypadkowa jest równa zero). Siła jest wektorem związanym z prostą, siły możemy prz
+1. Dwie siły przyłożone do ciała sztywnego równoważą się wzajemnie, jeśli mają jednakowe wartości, działają wzdłuż jednej prostej i mają przeciwne zwroty (ich siła wypadkowa jest równa zero). Siła jest wektorem związanym z prostą, siły możemy przesuwać wzdłuż linii działania
+   
+2. Jeśli do układu sił dodamy lub odejmiemy układ sił równoważny zeru (spełniający aksjomat 1), to działanie na ciało wyjściowego układu sił nie ulegnie zmianie. 
+   Każdemu działaniu towarzyszy przeciwdziałanie, które jest równe co do wartości, działające na tej samej prostej, lecz przeciwnie skierowane.
+
+3. Wypadkowa dwóch sił przechodzi przez punkt ich przecięcia i wyraża się długością przekątnej równoległoboku zbudowanego na tych siłach (wypadkowa dwóch sił jest wektorową sumą swoich dwóch składowych, każde ciało nieswobodne które możemy myślowo oswobodzić z więzów, możemy nastąpić odpowiednimi reakcjami, analize układu wielu sił można uprościć do równowagi kilku sił wypadkowych)
+   
