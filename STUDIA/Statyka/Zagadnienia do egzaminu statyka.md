@@ -127,3 +127,5 @@
 4. Jeżeli układ ma dwie lub więcej osi symetrii to środek ciężkości musi leżeć w punkcie przecięcia tych osi.
 
 5. Rzut środka ciężkości figury płaskiej na daną płaszczyznę jest środkiem ciężkości rzutu tej figury na ową płaszczyznę.
+   
+   ![](img/Pasted%20image%2020260205151902.png)
