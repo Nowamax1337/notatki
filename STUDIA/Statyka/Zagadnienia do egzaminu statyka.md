@@ -113,4 +113,3 @@
 
 - Punkt przyłożenia wypadkowej sił ciężkości działających na ciało w dowolnych punktach położenia ciała
 
-M - masa ogólna
