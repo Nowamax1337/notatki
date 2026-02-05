@@ -115,6 +115,8 @@
 
 $M$ - masa ogólna
 
-$M=\sum$
+$M=\sum\limits^{n}_{i=1}{M_{i}}$   $Gi=m_i*\vec{g}$
 
-![](img/Pasted%20image%2020260205150049.png)
+![](img/Pasted%20image%2020260205150429.png)
+
+$r_c*G=\vec{r_1}*m_1\vec{g}+\vec{r_2}*m_2\vec{g}+$
