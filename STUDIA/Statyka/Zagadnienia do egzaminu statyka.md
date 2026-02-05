@@ -113,10 +113,11 @@
 
 - Punkt przyłożenia wypadkowej sił ciężkości działających na ciało w dowolnych punktach położenia ciała
 
-$M$ - masa ogólna
+![](img/Pasted%20image%2020260205151024.png)
 
-$M=\sum\limits^{n}_{i=1}{M_{i}}$   $Gi=m_i*\vec{g}$
 
-![](img/Pasted%20image%2020260205150429.png)
+## 22. Twierdzenia wynikające ze wzorów na środki ciężkości 
 
-$r_c*G=\vec{r_1}*m_1\vec{g}+\vec{r_2}*m_2\vec{g}+$
+1. Środek ciężkości bryły, figury płaskiej, linii łuku mający środek symetrii, leży w samym środku
+
+2.
