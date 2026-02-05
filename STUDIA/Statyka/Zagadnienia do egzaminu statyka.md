@@ -113,3 +113,8 @@
 
 - Punkt przyłożenia wypadkowej sił ciężkości działających na ciało w dowolnych punktach położenia ciała
 
+$M$ - masa ogólna
+
+$M=\sum$
+
+![](img/Pasted%20image%2020260205150049.png)
