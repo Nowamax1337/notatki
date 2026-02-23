@@ -1,1 +1,0 @@
-**Wytłaczanie** jedno i dwuślimakowe tworzyw sztucznych 
